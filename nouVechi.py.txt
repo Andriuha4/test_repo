@@ -1,0 +1,1 @@
+print("ma incep a incurca deam")
